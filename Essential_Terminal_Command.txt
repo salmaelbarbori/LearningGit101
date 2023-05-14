@@ -1,0 +1,19 @@
+//List all files and folders
+ls
+// Know where are you
+pwd
+// access a folder /  change a directory
+cd folderName
+cd ..
+// opening a file
+start fileName
+// Reading a file
+cat fileName
+// Creating a file
+touch fileName
+// Creating a directory
+mkdir directoryName
+// Moving files
+mv path/fileName newpath
+// deleting a file
+rm fileName
