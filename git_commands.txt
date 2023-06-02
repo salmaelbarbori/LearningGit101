@@ -1,0 +1,6 @@
+//Creating a branch
+git branch branch_name
+//Checking in which branch you are gurrectly working
+git branch
+//switching branches
+git checkout branch_name
